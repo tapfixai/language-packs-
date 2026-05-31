@@ -7,6 +7,14 @@
       "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-ru-v1-/main/ru-v4.zip",
       "sizeBytes": 66818582,
       "sha256": "b98b3f840f3db2a53ffdba324b2c0d75530390eac0a2ccd454bf6283a3f97e00"
+    },
+    {
+      "languageCode": "en",
+      "displayName": "English",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/en-v1.zip",
+      "sizeBytes": 42117949,
+      "sha256": "f6273386225beb81d82b0694ea6f79dfe7e7563572a6c1bf6c3b558465355cb8"
     }
   ]
 }
