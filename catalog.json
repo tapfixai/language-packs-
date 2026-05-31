@@ -1,0 +1,12 @@
+{
+  "packs": [
+    {
+      "languageCode": "ru",
+      "displayName": "Русский",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-ru-v1-/main/ru.zip",
+      "sizeBytes": 37697250,
+      "sha256": "3212474842d1fbe4223da9c85c84d489c1053f17bead5f46171261cd6803da9e"
+    }
+  ]
+}
