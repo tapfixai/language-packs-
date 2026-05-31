@@ -3,10 +3,10 @@
     {
       "languageCode": "ru",
       "displayName": "Русский",
-      "version": 2,
-      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-ru-v1-/main/ru-v2.zip",
-      "sizeBytes": 39526125,
-      "sha256": "ba6da7ecd1f922c9013287358afb82ef1235f0d08ae9d586bff8ff7d6bb83308"
+      "version": 3,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-ru-v1-/main/ru-v3.zip",
+      "sizeBytes": 39722419,
+      "sha256": "498d82e512193dcd5b5ce63372b2405c44351ca3ff469b1e2c4e37caeb0fd810"
     }
   ]
 }
