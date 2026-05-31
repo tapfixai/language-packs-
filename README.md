@@ -8,9 +8,8 @@ Catalog:
 catalog.json
 ```
 
-Russian v1 package:
+Russian v4 package with trigrams:
 
 ```text
-https://raw.githubusercontent.com/tapfixai/language-packs-ru-v1-/main/ru.zip
+https://raw.githubusercontent.com/tapfixai/language-packs-ru-v1-/main/ru-v4.zip
 ```
-
