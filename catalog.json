@@ -303,6 +303,246 @@
       "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/hy-v1.zip",
       "sizeBytes": 238003,
       "sha256": "eff6dbe6826e70979d129fe62026de23ed3cadaed72bcd73364dfdab3b3f861c"
+    },
+    {
+      "languageCode": "hi",
+      "displayName": "हिन्दी",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/hi-v1.zip",
+      "sizeBytes": 24200800,
+      "sha256": "747635ccad9e2426ecb702b7956158f7623f996033f3e8128e0c5345255a8c73"
+    },
+    {
+      "languageCode": "bn",
+      "displayName": "বাংলা",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/bn-v1.zip",
+      "sizeBytes": 34306907,
+      "sha256": "ef2de0be4233daedac6cd2819090dce79943fefb720fb585744100d51f91b397"
+    },
+    {
+      "languageCode": "ta",
+      "displayName": "தமிழ்",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/ta-v1.zip",
+      "sizeBytes": 19960200,
+      "sha256": "8a45ed1582b7750c80f61bf422897d951e0afbf4650f7f57d15d4b148ba8ec75"
+    },
+    {
+      "languageCode": "te",
+      "displayName": "తెలుగు",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/te-v1.zip",
+      "sizeBytes": 8517724,
+      "sha256": "98aec240dbcf5fd880e0c8fe12f2011e5d237f851fe94c009b01bcc560dd33a1"
+    },
+    {
+      "languageCode": "mr",
+      "displayName": "मराठी",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/mr-v1.zip",
+      "sizeBytes": 93485,
+      "sha256": "0983dd14019a39057ffdc1d4ff7293c49ddf0db58cedab4369bfee558a862ba4"
+    },
+    {
+      "languageCode": "ml",
+      "displayName": "മലയാളം",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/ml-v1.zip",
+      "sizeBytes": 23278326,
+      "sha256": "e41955aec3faa5a279833643474a61d30e2f3ebafabd4c73728f3226fa24b50f"
+    },
+    {
+      "languageCode": "kn",
+      "displayName": "ಕನ್ನಡ",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/kn-v1.zip",
+      "sizeBytes": 665204,
+      "sha256": "1abd323deee084d548d7ad83e774c317f7a31ac67569ecb1ff872e704251bd0c"
+    },
+    {
+      "languageCode": "ne",
+      "displayName": "नेपाली",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/ne-v1.zip",
+      "sizeBytes": 729320,
+      "sha256": "f8c07dc8397b176285ebe8e4493773808ddd82456217ad5493049ae464ad457e"
+    },
+    {
+      "languageCode": "si",
+      "displayName": "සිංහල",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/si-v1.zip",
+      "sizeBytes": 17008973,
+      "sha256": "cc06a83689b573e8f4ad79a0510963f52156354b45e939623f583f9e759863e9"
+    },
+    {
+      "languageCode": "ur",
+      "displayName": "اردو",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/ur-v1.zip",
+      "sizeBytes": 13745422,
+      "sha256": "54c9db3ea084027ef5737f4d3749bd8921707842451301ed106990ed582aa5bf"
+    },
+    {
+      "languageCode": "km",
+      "displayName": "ភាសាខ្មែរ",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/km-v1.zip",
+      "sizeBytes": 3826768,
+      "sha256": "b3656219de8b4f44be5a76de19e5af34ff46aec8775e3e774b39c6ee07036043"
+    },
+    {
+      "languageCode": "mya",
+      "displayName": "Burmese",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/mya-v1.zip",
+      "sizeBytes": 4484424,
+      "sha256": "ee1b7f89f793a7f90520d6fe3d5477aed207bef0c937666e7727881de888e024"
+    },
+    {
+      "languageCode": "ja",
+      "displayName": "日本語",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/ja-v1.zip",
+      "sizeBytes": 11283528,
+      "sha256": "dfc80fe0aa1651e4c0f4e8f20958b5c43b96e0e7c0fbe756a6a8c8ee8533f16b"
+    },
+    {
+      "languageCode": "ko",
+      "displayName": "한국어",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/ko-v1.zip",
+      "sizeBytes": 42849769,
+      "sha256": "6edacf5c56aab8a88ef191596d6f414db312d661467c10e486c8a26a5957e55b"
+    },
+    {
+      "languageCode": "sw",
+      "displayName": "Kiswahili",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/sw-v1.zip",
+      "sizeBytes": 1690764,
+      "sha256": "04d6f7b30107962e43ac4ffcd8717e4baef56295e949f97b6051707587707870"
+    },
+    {
+      "languageCode": "kk",
+      "displayName": "Қазақ",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/kk-v1.zip",
+      "sizeBytes": 1292166,
+      "sha256": "56ab862f99229945e4a9d07c7915e13189e2f92b43ee0b88dc70ecb704da46f8"
+    },
+    {
+      "languageCode": "mn",
+      "displayName": "Монгол",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/mn-v1.zip",
+      "sizeBytes": 1163793,
+      "sha256": "d5785ad9ba3a6ee670d2c2fdd5eee72ecacc6f623b25f1e61ceecae1bb7f138d"
+    },
+    {
+      "languageCode": "az",
+      "displayName": "Azərbaycanca",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/az-v1.zip",
+      "sizeBytes": 1185363,
+      "sha256": "c9895ce2319862c038bad26076416e66fdeb1833e125c0a44a3ab8dd57dad0e1"
+    },
+    {
+      "languageCode": "ca",
+      "displayName": "Català",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/ca-v1.zip",
+      "sizeBytes": 15456850,
+      "sha256": "7acb6afbc3d1a32a94c45488735319c732ce41c7cba4e954606990bae187d51b"
+    },
+    {
+      "languageCode": "eu",
+      "displayName": "Euskara",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/eu-v1.zip",
+      "sizeBytes": 11678282,
+      "sha256": "6c354bc568e06162a05f087c668b56d65759b0a279541b31a8760ef345de13e9"
+    },
+    {
+      "languageCode": "ga",
+      "displayName": "Gaeilge",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/ga-v1.zip",
+      "sizeBytes": 434544,
+      "sha256": "fb6c2d4fa28669d33462fcab24a63c3ff795f5842beb4b38fce4df8267c286e7"
+    },
+    {
+      "languageCode": "gl",
+      "displayName": "Galego",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/gl-v1.zip",
+      "sizeBytes": 9584271,
+      "sha256": "ae53173f88f9cbfab13c5980afb85310629e6ba2293693b38a158caf0461b3ab"
+    },
+    {
+      "languageCode": "is",
+      "displayName": "Íslenska",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/is-v1.zip",
+      "sizeBytes": 30211244,
+      "sha256": "c16d4dfe32bd706029fd775e3a3f9bc66e64a755f2561c9c2b0d0109debbb25a"
+    },
+    {
+      "languageCode": "sq",
+      "displayName": "Shqip",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/sq-v1.zip",
+      "sizeBytes": 21517679,
+      "sha256": "0007ed1cbbe057b470ac08d434b4ad8f71866a9bfe84282368d0dff5cebd7d70"
+    },
+    {
+      "languageCode": "tl",
+      "displayName": "Filipino",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/tl-v1.zip",
+      "sizeBytes": 13303971,
+      "sha256": "50d3d727e067ce9002b10b66a0034c74633610ee9861b4b71628443908c378d2"
+    },
+    {
+      "languageCode": "cy",
+      "displayName": "Cymraeg",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/cy-v1.zip",
+      "sizeBytes": 12583928,
+      "sha256": "03b85c7b6fc0d78ba7b4e125183d7480d8eb4999d6e3ff57673b1415cf878ad2"
+    },
+    {
+      "languageCode": "am",
+      "displayName": "አማርኛ",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/am-v1.zip",
+      "sizeBytes": 70336,
+      "sha256": "43c55709a301f336eac89ab2354a9fe2eced98b9a024ca4497d7eed0c30b3002"
+    },
+    {
+      "languageCode": "so",
+      "displayName": "Soomaali",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/so-v1.zip",
+      "sizeBytes": 22574,
+      "sha256": "56643163021eb9399b16bcdc4b0260abeaac99c151eef8dd1da0a60fb2b438a6"
+    },
+    {
+      "languageCode": "ig",
+      "displayName": "Igbo",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/ig-v1.zip",
+      "sizeBytes": 43288,
+      "sha256": "9216bbf3d29b8df59ecb5f37e853f1f2e949d01fbd55a37bb45d3f927ca59ecd"
+    },
+    {
+      "languageCode": "ku",
+      "displayName": "Kurdî",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/ku-v1.zip",
+      "sizeBytes": 4138805,
+      "sha256": "1f91e4571f0ac13f6d63eb9fb4beb0ab16a57f0f512b20f157af811fbdfaaf11"
     }
   ]
 }
