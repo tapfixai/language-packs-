@@ -15,6 +15,294 @@
       "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/en-v1.zip",
       "sizeBytes": 42117949,
       "sha256": "f6273386225beb81d82b0694ea6f79dfe7e7563572a6c1bf6c3b558465355cb8"
+    },
+    {
+      "languageCode": "uk",
+      "displayName": "Українська",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/uk-v1.zip",
+      "sizeBytes": 28065801,
+      "sha256": "0236d1c2f5ee2c363c1302d19970cb62bb8a324ca137b15d55b8bdad2c195245"
+    },
+    {
+      "languageCode": "be",
+      "displayName": "Беларуская",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/be-v1.zip",
+      "sizeBytes": 1919297,
+      "sha256": "195a937cc6770d62897ff24baba265c3d8b21951eecfbbc1db1f9166659125de"
+    },
+    {
+      "languageCode": "bg",
+      "displayName": "Български",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/bg-v1.zip",
+      "sizeBytes": 10330352,
+      "sha256": "37efd44ad462c84a9568ca1d18a357d3791afc0eda1feeac410a3b5d88865ba4"
+    },
+    {
+      "languageCode": "sr",
+      "displayName": "Српски",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/sr-v1.zip",
+      "sizeBytes": 11610703,
+      "sha256": "e6dbf4665f7071ee18d2ebe0e3d5802d4efa9068c2de5aa170d7a3328ba23ad6"
+    },
+    {
+      "languageCode": "mk",
+      "displayName": "Македонски",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/mk-v1.zip",
+      "sizeBytes": 11558201,
+      "sha256": "ee47add35380ff75defcce7d02d6059e5e5f8a518585bb97b0912f7f6cc67370"
+    },
+    {
+      "languageCode": "el",
+      "displayName": "Ελληνικά",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/el-v1.zip",
+      "sizeBytes": 37342606,
+      "sha256": "cc50eceb57864b34f29f6484cd0714c0862f86d7306988b53791f1ffc56c68d3"
+    },
+    {
+      "languageCode": "he",
+      "displayName": "עברית",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/he-v1.zip",
+      "sizeBytes": 13415462,
+      "sha256": "4d94d6dc61132c32bdd7244fe5d71cdd050a3bf87db71df85b3db9c9470d72ff"
+    },
+    {
+      "languageCode": "ar",
+      "displayName": "العربية",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/ar-v1.zip",
+      "sizeBytes": 11876123,
+      "sha256": "f576a723c491c5082e5c98a5dd32913e4066e4588dd0a6e7f615aef1d70864a3"
+    },
+    {
+      "languageCode": "fa",
+      "displayName": "فارسی",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/fa-v1.zip",
+      "sizeBytes": 35415459,
+      "sha256": "85de709e4296c4294167c8a0fa2cf5df4f95384a8dae4e50c7e1c93c6f6b3fd8"
+    },
+    {
+      "languageCode": "es",
+      "displayName": "Español",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/es-v1.zip",
+      "sizeBytes": 30728873,
+      "sha256": "50d8718435da2f447ef076c7306cfea29940924ba61b4c31e34e202e9ca26670"
+    },
+    {
+      "languageCode": "de",
+      "displayName": "Deutsch",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/de-v1.zip",
+      "sizeBytes": 26535599,
+      "sha256": "2c2c97c084e048ee6cc40d0f90f53feb24458915549723219981401511ca5e2f"
+    },
+    {
+      "languageCode": "fr",
+      "displayName": "Français",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/fr-v1.zip",
+      "sizeBytes": 29430658,
+      "sha256": "9ca08a55c2423ad408a4b6d09391e6e1392a31b06d5f4bcb7db531e8b0052fff"
+    },
+    {
+      "languageCode": "pt",
+      "displayName": "Português",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/pt-v1.zip",
+      "sizeBytes": 28006000,
+      "sha256": "7af726ab80f74d9ba698f5e36ac2eb9a5c611f016ee7821a2685c66c4f1f371b"
+    },
+    {
+      "languageCode": "it",
+      "displayName": "Italiano",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/it-v1.zip",
+      "sizeBytes": 29777740,
+      "sha256": "34329deb2007a5bc35121a54a27181b57ff48ee7a6dfedf40ff9997a28a2dade"
+    },
+    {
+      "languageCode": "nl",
+      "displayName": "Nederlands",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/nl-v1.zip",
+      "sizeBytes": 24342870,
+      "sha256": "5638cf2f05c41eaa596c230f1ff2e42c3d563daf210a18bf6f521ea9639abdc3"
+    },
+    {
+      "languageCode": "sv",
+      "displayName": "Svenska",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/sv-v1.zip",
+      "sizeBytes": 9106290,
+      "sha256": "7cfb7a243e6f8745e3c8519a99f4d5e240a56f9c60bbaab6d6f839799c99f498"
+    },
+    {
+      "languageCode": "no",
+      "displayName": "Norsk",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/no-v1.zip",
+      "sizeBytes": 8381009,
+      "sha256": "fcbc11491d7242fc213216a0fba717e894e67f5da919aeece25df032fb218a3e"
+    },
+    {
+      "languageCode": "da",
+      "displayName": "Dansk",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/da-v1.zip",
+      "sizeBytes": 9242092,
+      "sha256": "6d77fb1114448bcc437f7157565f835c6aa162106ad66c7d4075220f5174a2f4"
+    },
+    {
+      "languageCode": "fi",
+      "displayName": "Suomi",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/fi-v1.zip",
+      "sizeBytes": 10662721,
+      "sha256": "8841fff1201ce6e3adf0c654aeac8f728bd8c5d4af407c8964076e876bcb8510"
+    },
+    {
+      "languageCode": "cs",
+      "displayName": "Čeština",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/cs-v1.zip",
+      "sizeBytes": 24671210,
+      "sha256": "0177ee2678134308275535b9e9a63645c9ca68a2f6bed2e8680ed9fadb01b83a"
+    },
+    {
+      "languageCode": "sk",
+      "displayName": "Slovenčina",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/sk-v1.zip",
+      "sizeBytes": 8229356,
+      "sha256": "8240fa1208c6449da445a6a3ec64440240252c9ce2f21561dd282198b2579bb1"
+    },
+    {
+      "languageCode": "pl",
+      "displayName": "Polski",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/pl-v1.zip",
+      "sizeBytes": 24209856,
+      "sha256": "d1f1dc9bdb449fb65839244dd1cc68788d0d8b7a747fcaa9e5b96484ea05aac2"
+    },
+    {
+      "languageCode": "hu",
+      "displayName": "Magyar",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/hu-v1.zip",
+      "sizeBytes": 32053853,
+      "sha256": "455f08254e5b426fa7a64c7b4b8c8ed05d4f30d7db02bad5e3cad2159b41ff7c"
+    },
+    {
+      "languageCode": "ro",
+      "displayName": "Română",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/ro-v1.zip",
+      "sizeBytes": 29525531,
+      "sha256": "661845775d51e956c7506096738a9ea143851deda2a6ca13e25ae6484a969e3d"
+    },
+    {
+      "languageCode": "tr",
+      "displayName": "Türkçe",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/tr-v1.zip",
+      "sizeBytes": 27327765,
+      "sha256": "b091af45dd8f903f6c2eebb68fe9d11eb260f1749b61c80f8f050775ca562306"
+    },
+    {
+      "languageCode": "hr",
+      "displayName": "Hrvatski",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/hr-v1.zip",
+      "sizeBytes": 10188141,
+      "sha256": "1231c48adc9c66434339298c56d07b39c387cf861121f12534af2ec4c4d741f3"
+    },
+    {
+      "languageCode": "sl",
+      "displayName": "Slovenščina",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/sl-v1.zip",
+      "sizeBytes": 11310860,
+      "sha256": "c635ebd4815800570fa039326ca7a5357e0e71b09e1c813c5401e9350b50b93b"
+    },
+    {
+      "languageCode": "lt",
+      "displayName": "Lietuvių",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/lt-v1.zip",
+      "sizeBytes": 7421984,
+      "sha256": "bb03f0c22eb9c81843978844cc0ee3865a49e7615866944a99528f5c151973de"
+    },
+    {
+      "languageCode": "lv",
+      "displayName": "Latviešu",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/lv-v1.zip",
+      "sizeBytes": 6425280,
+      "sha256": "8d28f707a486363ac2aa367af1510ecb4a79eca9de024775de430fec154779f5"
+    },
+    {
+      "languageCode": "et",
+      "displayName": "Eesti",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/et-v1.zip",
+      "sizeBytes": 9677251,
+      "sha256": "7b053ed8a96e8118c535d73b49f8203970b7f475d0c65a571e49f5b04c159d13"
+    },
+    {
+      "languageCode": "id",
+      "displayName": "Indonesia",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/id-v1.zip",
+      "sizeBytes": 27337322,
+      "sha256": "92f867545a48883c52f1e74b9c24ed139d1250ba9a459fe7fa0e99d163d3c4f2"
+    },
+    {
+      "languageCode": "ms",
+      "displayName": "Melayu",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/ms-v1.zip",
+      "sizeBytes": 6443082,
+      "sha256": "c75c4b42bf648d831ddc41a9d6bcb9fbb32b8e976a415107005387e478def37e"
+    },
+    {
+      "languageCode": "vi",
+      "displayName": "Tiếng Việt",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/vi-v1.zip",
+      "sizeBytes": 2675384,
+      "sha256": "eec9777dfe9766c8fbdaf59691ec920812137bb2308647cae537cdc1c3135b8b"
+    },
+    {
+      "languageCode": "th",
+      "displayName": "ไทย",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/th-v1.zip",
+      "sizeBytes": 200325,
+      "sha256": "8fdf8a07ee5eaa058ba20baeac1e8a1943892433f5413f200df1b8df5f4cd703"
+    },
+    {
+      "languageCode": "ka",
+      "displayName": "ქართული",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/ka-v1.zip",
+      "sizeBytes": 3375969,
+      "sha256": "18a0c4d1b61fb14d41b0fb14fa5bb94db8da36c9ab510edd19f84eb42a946c19"
+    },
+    {
+      "languageCode": "hy",
+      "displayName": "Հայերեն",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/tapfixai/language-packs-/main/hy-v1.zip",
+      "sizeBytes": 238003,
+      "sha256": "eff6dbe6826e70979d129fe62026de23ed3cadaed72bcd73364dfdab3b3f861c"
     }
   ]
 }
